@@ -1,4 +1,4 @@
-package JavaProjects.ProjectClasses;
+package JavaProjects.ProjectClasses.PracticePrograms;
 
 public class SumClass {
 //    Given an array of integers nums and an integer target,

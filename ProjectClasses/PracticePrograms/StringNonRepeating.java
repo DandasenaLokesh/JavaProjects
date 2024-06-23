@@ -1,4 +1,4 @@
-package JavaProjects.ProjectClasses;
+package JavaProjects.ProjectClasses.PracticePrograms;
 
 import java.util.HashSet;
 import java.util.Set;
